@@ -1,2 +1,3 @@
 hi
 this is text file
+this message is to next commit
