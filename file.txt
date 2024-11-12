@@ -1,3 +1,5 @@
 hi
 this is text file
 this message is to next commit
+line 4
+text edited by branch1
